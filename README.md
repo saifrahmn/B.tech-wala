@@ -24,7 +24,9 @@ In the fourth and final week, you will learn the fundamentals of Data Structures
 
 ## Prerequisites
 
-To take this course, you should have basic knowledge of programming concepts and algorithms. You should also have access to a computer with a C/C++ compiler installed.
+1. Patience
+2. Efforts
+3. Basic computer knowledge
 
 ## Course Format
 
