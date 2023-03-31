@@ -1,10 +1,10 @@
 # B.Tech Wala - 4-Week Course on C/C++ and DSA
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>B.Tech Wala - 4-Week Course on C/C++ and DSA</title>
- 
+
+ <svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -62,7 +62,7 @@
       font-style: italic;
     }
   </style>
-</head>
+
 <body>
   <h1>B.Tech Wala - 4-Week Course on C/C++ and DSA</h1>
   
@@ -88,3 +88,6 @@
       <li><span class="topic">Standard Library Functions:</span> Introduction to commonly used standard library functions.</li>
       <li><span class="topic">Modular Code:</span> Writing modular code in C.</li>
 
+ </div>
+  </foreignObject>
+</svg>
