@@ -1,5 +1,10 @@
 # B.Tech Wala - 4-Week Course on C/C++ and DSA
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>B.Tech Wala - 4-Week Course on C/C++ and DSA</title>
+ 
   <style>
     body {
       font-family: Arial, sans-serif;
