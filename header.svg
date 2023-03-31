@@ -2,6 +2,16 @@
     <foreignObject width="100%" height="100%">
       <div xmlns="http://www.w3.org/1999/xhtml">
     <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f7f7f7;
+      }
+      
+      h1 {
+        color: #1c478e;
+        text-align: center;
+        margin-top: 50px;
+      }
       
       h2 {
         color: #1c478e;
@@ -69,7 +79,8 @@
         <li><span class="topic">Dynamic Memory Allocation:</span> Introduction to dynamic memory allocation in C.</li>
         <li><span class="topic">Standard Library Functions:</span> Introduction to commonly used standard library functions.</li>
         <li><span class="topic">Modular Code:</span> Writing modular code in C.</li>
-        </div>
+    </ul>    
+    </div>
       </div>
     </foreignObject>
   </svg>
